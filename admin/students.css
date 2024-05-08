@@ -1,0 +1,7 @@
+.left-side div:last-of-type a:first-of-type {
+    background-color: #FEAF00;
+}
+.left-side div:last-of-type a:hover:not(.left-side div:last-of-type a:first-of-type){
+    background-color: #FEAF00;
+    margin-left: 20px;
+}
